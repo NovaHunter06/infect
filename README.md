@@ -23,3 +23,5 @@ pip install pynput
 
 # Run the security monitor (Requires Root for system hooks)
 sudo python3 infect.py
+
+be careful to use it
