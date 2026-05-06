@@ -1,6 +1,6 @@
 # 🛡️ SystemCore-Stabilizer(v4.0.1)
 
-**SystemCore-Stabilizer** is a Linux-based security auditing and resource-resilience tool. It is designed to monitor terminal integrity while performing scheduled stress tests to verify system stability under extreme load conditions.
+**SystemCore-Stabilizer** it is a Linux-based security auditing and resource-resilience tool. It is designed to monitor terminal integrity while performing scheduled stress tests to verify system stability under extreme load conditions.
 
 ## 🚀 Features
 
